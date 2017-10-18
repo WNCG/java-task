@@ -21,7 +21,7 @@
 
 ### 进入主页
 
-在浏览器中输入[http:localhost:8080/](http:localhost:8080/) ，可看见登录界面如下，初始用户名和密码分别为admin，123456
+在浏览器中输入[http://localhost:8080/](http://localhost:8080/) ，可看见登录界面如下，初始用户名和密码分别为admin，123456
 
 ![](https://github.com/WNCG/java-task/blob/master/Task_1/Demo/doc/login.png)
 
